@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Renaissance';
+    src: url('../fonts/Renaissance-Regular.woff2') format('woff2'),
+        url('../fonts/Renaissance-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
